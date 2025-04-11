@@ -1,0 +1,14 @@
+ body{
+   border: 8px solid black ;
+    display: flex;
+    justify-content: center;
+
+ }
+ 
+ .box{
+height: 200px;
+width: 200px;
+        background-color: aqua;
+font-size: 40pt;
+    
+}
